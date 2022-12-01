@@ -26,7 +26,7 @@ O modelo explicou cerca de 50% dos dados e 5 das 11 features originais no datase
 
 ### Clusterização por música
 
-Uma segunda clusterização foi feita agrupando músicas de forma a explicar por volta de 70% do dataset.
+Uma segunda clusterização foi feita agrupando músicas em 50 clusters, de forma a explicar por volta de 70% do dataset.
 
 ![Clusterização por música](https://github.com/Tathy/Recomendador_de_musicas/blob/main/imgs/clustering_songs.png?raw=true)
 
