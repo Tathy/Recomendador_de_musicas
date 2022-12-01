@@ -6,9 +6,17 @@
 
 Será feita uma clusterização utilizando o algoritmo K-Means. 
 
-## Tratamentos dos dados
+### Tratamentos dos dados
 
 Foram removidos dos datasets features que não eram diretamente relacionadas ao estilo musical ou que não precisavam ser avaliados na recomendação de músicas.
+
+### Clusterização por gênero
+
+A Clusterização foi feita agrupando os gêneros musicais em 5 clusters.
+
+O modelo explicou cerca de 50% dos dados e 5 das 11 features originais no dataset de gêneros musicais.
+
+![Clusterização por gênero musical](https://github.com/Tathy/Recomendador_de_musicas/blob/main/imgs/clustering_genres.png?raw=true)
 
 ## Observações
 
