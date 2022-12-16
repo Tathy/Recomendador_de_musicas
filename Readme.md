@@ -38,13 +38,13 @@ Uma segunda clusterização foi feita agrupando músicas em 50 clusters, de form
 
 
 
-### Exemplo de recomendação
+## Exemplo de recomendação
 
 É gerado uma playlist com as músicas recomendadas em ordem de semelhança, com o nome da música e o álbum ao qual pertence.
 
 O exemplo abaixo foi gerado para a música "Ed Sheeran - Shape of You".
 
-![Exemplo de recomendações](https://github.com/Tathy/Recomendador_de_musicas/blob/main/imgs/clustering_genres.png?raw=true)
+![Exemplo de recomendações](https://github.com/Tathy/Recomendador_de_musicas/blob/main/imgs/exemplo_recomendacoes_fundo_branco.png?raw=true)
 
 
 ## Referências
